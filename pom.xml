@@ -24,12 +24,12 @@
    <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://16.170.157.163:8081/repository/Cloud-Gen-Relese/</url>
+            <url>http://34.204.8.31:8081/repository/Cloud-Gen-Relese/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://16.170.157.163:8081/repository/Cloud-Gen-Snap/</url>
+            <url>http://34.204.8.31:8081/repository/Cloud-Gen-Snap/</url>
         </snapshotRepository>
     <site>
       <id>site-server</id>
